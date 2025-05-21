@@ -1,6 +1,7 @@
 # Welcome
 
-Please read the code of conduct.
+Please read the code of conduct for community and behavioral expectations.
 
-Steps for creating good issues or pull requests.
-Community and behavioral expectations.
+Steps for creating
+* issues in []
+* or pull requests.
