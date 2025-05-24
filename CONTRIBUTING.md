@@ -2,6 +2,9 @@
 
 Please read the code of conduct for community and behavioral expectations.
 
-Steps for creating
-* issues read [ISSUE_TEMPLATE](ISSUE_TEMPLATE), and
-* pull requests read [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE).
+For submitting contributions, fill out:
+* [ISSUE_TEMPLATE](ISSUE_TEMPLATE);
+* [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE).
+
+Steps for creating the PR template, please:
+* Open an issue before submitting a PR.

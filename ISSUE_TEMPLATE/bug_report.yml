@@ -1,5 +1,6 @@
 name: "🐞 Bug Report"
-description: "Report a bug in the project."
+description: "Report a bug in a repositoy."
+ticket: "B-year-month-day"
 title: "[Bug]"
 labels: ["bug"]
 body:
@@ -8,7 +9,7 @@ body:
     attributes:
       label: "Description"
       description: Please enter an explicit description of your issue
-      placeholder: Short and explicit description of your incident...
+      placeholder: Short and explicit description of your concern.
     validations:
       required: true
   - type: input
@@ -46,7 +47,7 @@ body:
     id: logs
     attributes:
       label: "Logs"
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      description: Please copy and paste any relevant log output.
       render: bash
     validations:
       required: false
