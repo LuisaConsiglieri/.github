@@ -28,9 +28,8 @@ If applicable, add screenshots to help explain your problem.
 Please copy and paste any relevant log output.
 
 **Desktop (please choose the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [linux, mac, windows]
+ - Browser [chrome, firefox, microsoft edge, opera, safari]
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
