@@ -1,12 +1,13 @@
 ---
 name: Feature request
 about: Suggest your concern
-ticket: I-<year-month-day>
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+***Ticket:*** I-<year-month-day>
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is.
