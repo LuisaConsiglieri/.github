@@ -27,7 +27,7 @@ body:
       description: Common issues
       placeholder: "#Issues IDs"
     validations:
-      required: false
+      required: true
   - type: textarea
     id: summary
     attributes:
