@@ -1,18 +1,17 @@
 name: "💡 Feature Request"
 description: Create a ticket for a new feature request
-ticket: I-<year-month-day>
 labels: [
   "question"
 ]
 body:
   - type: input
-    id: start_date
+    id: ticket
     attributes:
-      label: "Start Date"
-      description: Start of development
-      placeholder: "month/day/year"
+      label: "Ticket"
+      description: Reference
+      placeholder: " PR-year-month-day"
     validations:
-      required: false
+      required: true
   - type: textarea
     id: implementation_pr
     attributes:
