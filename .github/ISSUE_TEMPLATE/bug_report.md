@@ -1,5 +1,6 @@
 ---
 name: 🐞 Bug report
+about: "Report a bug in a repository."
 title: ''
 labels: ''
 assignees: ''
