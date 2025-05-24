@@ -1,6 +1,6 @@
 # Welcome
 
-Please read the code of conduct for community and behavioral expectations.
+Please read the [code of conduct](CODE_OF_CONDUCT.md) for community and behavioral expectations.
 
 For submitting contributions, fill out:
 * [ISSUE_TEMPLATE](ISSUE_TEMPLATE);
